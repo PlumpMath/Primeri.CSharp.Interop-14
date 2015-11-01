@@ -1,0 +1,4 @@
+E:\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.exe
+E:\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.pdb
+E:\Aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.exe
+E:\Aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.pdb
