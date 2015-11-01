@@ -1,4 +1,4 @@
-#Interop минипроект
+#Interop  МиниПроект
 Name: Primeri.CSharp.Interop
 
 
